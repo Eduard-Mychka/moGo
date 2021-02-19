@@ -1,3 +1,1 @@
-# MoGo
-
-https://eduard-mychka.github.io/mogo/.
+# [Demo MoGo](https://eduard-mychka.github.io/mogo/)
