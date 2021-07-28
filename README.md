@@ -4,4 +4,4 @@ Adaptive landing page developed for practice using HTML/CSS/jQuery
 
 <!-- ![Optional Text](../mogo/assets/images/ipad.png) -->
 <!-- ![GitHub Logo](/images/ipad.png) -->
-![cover for app](https://github.com/Eduard-Mychka/mogo/blob/Mogo1.png "Cover of simple layout")
+![cover for app](https://github.com/Eduard-Mychka/mogo/Mogo1.png "Cover of simple layout")
