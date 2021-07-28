@@ -1,3 +1,3 @@
 Adaptive landing page developed for practice using HTML/CSS/jQuery
 
-# [Demo MoGo](https://eduard-mychka.github.io/mogo/)
+# You can look at it [here](https://eduard-mychka.github.io/mogo/)
