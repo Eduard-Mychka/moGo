@@ -1182,10 +1182,17 @@ hr {
   text-align: center;
   font-size: 14px;
   color: #000;
+  font-weight: bold;
 }
 
 .copyright span {
-  color: #f38181;
+  color: #999999;
+}
+
+.copyright a {
+  color: rgb(255, 88, 88);
+  text-decoration: none;
+  
 }
 
 @media (max-width: 1230px) {
